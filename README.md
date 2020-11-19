@@ -4,7 +4,7 @@
 
 I'm self-employed full stack web and software engineer from Indonesia :indonesia:.
 In the past, I worked as a remote software engineer for companies in Europe, where most of my job was creating cross-platform desktop applications and libraries using Xojo programming language.
-I'm currently working as a software consultant providing websites, services, and expertise for several companies.
+Currently, I'm working as a software consultant providing websites, services, and expertise for several companies.
 
 Outside of programming, I'm also a Researcher and Physicist with Master's degree from [Institut Teknologi Bandung (ITB)](https://itb.ac.id/) specializing in Physics of Complex System and Machine Learning.
 
