@@ -14,7 +14,7 @@ I'm available to hire for remote and freelance jobs.
 
 
 #### Repositories
-This account is used to store my repositories or the repositories that I'll working on it only.
+This account is used to store my repositories or repositories that I'll working on it only.
 
 - My other contributions can be found in [@pts-contrib](https://github.com/pts-contrib),
 - Forked repositories are stored in [@pts-fork](https://github.com/pts-fork), while
